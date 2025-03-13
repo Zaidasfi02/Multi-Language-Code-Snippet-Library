@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-MultiCodeSnippetApplication<Multi-Code-Snippet>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.example.demo.MultiCodeSnippetApplication",
+      "projectName": "Multi-Code-Snippet",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
